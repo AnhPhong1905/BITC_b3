@@ -1,0 +1,28 @@
+h1{
+    color: violet;
+    text-align: center;
+    font-weight: bold;
+}
+
+.kho1{
+    text-align: center;
+    font-weight: bold;
+    color: blue
+}
+
+.kho2{
+    text-align: center;
+    font-weight: bold;
+    color: brown
+    
+}
+
+.kho3{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+hr{
+    width: 200px;
+    
+}
